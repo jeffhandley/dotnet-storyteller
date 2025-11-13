@@ -50,8 +50,8 @@ dotnet run -lp https
 ```
 
 The application will start and listen on:
-- HTTP: `http://localhost:5155`
-- HTTPS: `https://localhost:7223`
+- HTTP: `http://localhost:5070`
+- HTTPS: `https://localhost:7241`
 
 ### 3. Test the Application
 
